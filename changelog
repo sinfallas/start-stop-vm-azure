@@ -1,4 +1,16 @@
-commit 4b237e07258871dd4fd07f41e4b3af0b15357cc9 (HEAD -> master, origin/master, origin/HEAD)
+commit ef54038958f297c6e8065bfecd3a5eb367e30367 (HEAD -> master, origin/master, origin/HEAD)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 22 17:38:47 2018 -0400
+
+    * first code
+
+commit ba47832e7cff1d9326ac34509789bbcb9cf63057
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 22 17:34:46 2018 -0400
+
+    * changelog
+
+commit 4b237e07258871dd4fd07f41e4b3af0b15357cc9
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sat Dec 22 21:34:20 2018 +0000
 
