@@ -1,0 +1,11 @@
+commit 4b237e07258871dd4fd07f41e4b3af0b15357cc9 (HEAD -> master, origin/master, origin/HEAD)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 22 21:34:20 2018 +0000
+
+    Agregar LICENSE
+
+commit 0e900cc02c872169de778c1c19f35cb33abb5a25
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 22 21:31:53 2018 +0000
+
+    Initial commit
